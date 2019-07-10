@@ -1,0 +1,29 @@
+{
+  "app-title": "Online learning",
+  "choose-language": "Choose language",
+  "todo-list": "Stored sentences & intents",
+  "completed-todos": "Completed TODOs",
+  "errors": {
+    "invalid-form": "Please provide a sentence"
+  },
+  "todo-item": {
+    "complete": "Train",
+    "edit": "Edit",
+    "delete": "Delete",
+    "train": "Train"
+  },
+  "todo-list-section": {
+    "show-cards": "Show cards",
+    "show-list": "Show list",
+    "todos-duedate-today": "Expires today"
+  },
+  "add-todo": {
+    "headline": "Add a sentence/intent",
+    "title": "Sentence",
+    "intent" : "Intent",
+    "description": "Intent",
+    "due-date": "Due date",
+    "create": "Create",
+    "force-intent": "Force intent"
+  }
+}
